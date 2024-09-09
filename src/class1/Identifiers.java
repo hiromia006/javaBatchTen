@@ -1,8 +1,8 @@
 package class1;
 
-import class2.JavaVariables;
 
-public class Identifiers extends JavaVariables {
+
+public class Identifiers  {
     int age;
     int Age;
 
