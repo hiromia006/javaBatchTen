@@ -1,4 +1,4 @@
-package class7.abstraction;
+package class7.abstraction.abrtactClass;
 
 public class Circle extends Shape{
     @Override

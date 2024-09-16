@@ -1,4 +1,4 @@
-package class7.abstraction;
+package class7.abstraction.abrtactClass;
 
 public abstract class Shape {
     // Abstract method (does not have a body)
